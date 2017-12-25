@@ -14,7 +14,6 @@ import java.io.IOException;
 public class UpdateServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
-
     public UpdateServlet() {
         super();
 
